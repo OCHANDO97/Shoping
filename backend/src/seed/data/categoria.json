@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "nombreCategory": "Hogar y Limpieza"
+
+    },
+    {
+        "id":2,
+        "nombreCategory": "Higiene Personal"
+
+    },
+    {
+        "id":3,
+        "nombreCategory": "Frutas y Vegetales"
+
+    },
+    {
+        "id":4,
+        "nombreCategory": "Carne y Pescado"
+
+    },
+    {
+        "id":5,
+        "nombreCategory": "Lacteos"
+
+    },
+    {
+        "id":6,
+        "nombreCategory": "Bebidas"
+
+    },
+    {
+        "id":7,
+        "nombreCategory": "Pan y Pasteles"
+
+    },
+    {
+        "id":8,
+        "nombreCategory": "Mascotas"
+    },
+    {
+        "id":9,
+        "nombreCategory": "Cereales y Pastas"
+
+    },
+    {
+        "id":10,
+        "nombreCategory": "Ingredientes"
+
+    }
+    
+    
+]

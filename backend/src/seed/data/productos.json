@@ -1,0 +1,390 @@
+[
+    {
+        "id":1,
+        "nombreProducto": "fregasuelo",
+        "imagen": "fregasuelo.png",
+        "categoriaId": 1
+
+    },
+    {
+        "id":2,
+        "nombreProducto": "fairy",
+        "imagen": "fairy.png",
+        "categoriaId": 1
+    },
+    {
+        "id":3,
+        "nombreProducto": "bolsa de basura",
+        "imagen": "bolsa_basura.png",
+        "categoriaId": 1
+    },
+    {
+        "id":4,
+        "nombreProducto": "detergente",
+        "imagen": "detergente.png",
+        "categoriaId": 1
+    },
+    {
+        "id":5,
+        "nombreProducto": "papel",
+        "imagen": "multiusosResistente.png",
+        "categoriaId": 1
+    },
+    {
+        "id":6,
+        "nombreProducto": "papel higiénico",
+        "imagen": "higienico.png",
+        "categoriaId": 1
+    },
+    {
+        "id":7,
+        "nombreProducto": "colonias",
+        "imagen": "colonias.png",
+        "categoriaId": 2
+    },
+    {
+        "id":8,
+        "nombreProducto": "desodorante",
+        "imagen": "desodorante.png",
+        "categoriaId": 2
+    },
+    {
+        "id":9,
+        "nombreProducto": "gel de baño",
+        "imagen": "gel_baño.png",
+        "categoriaId": 2
+    },
+    {
+        "id":10,
+        "nombreProducto": "pasta de diente",
+        "imagen": "pasta_diente.png",
+        "categoriaId": 2
+    },
+   
+    {
+        "id":12,
+        "nombreProducto": "gel hidracolico",
+        "imagen": "gel_hidracolico.png",
+        "categoriaId": 2
+    },
+    {
+        "id":13,
+        "nombreProducto": "mascarilla",
+        "imagen": "mascarilla.png",
+        "categoriaId": 2
+    },
+    {
+        "id":14,
+        "nombreProducto": "platanos",
+        "imagen": "platano.png",
+        "categoriaId": 3
+    },
+    {
+        "id":15,
+        "nombreProducto": "manzana",
+        "imagen": "manzana.png",
+        "categoriaId": 3
+    },
+    {
+        "id":16,
+        "nombreProducto": "pera",
+        "imagen": "pera.png",
+        "categoriaId": 3
+    },
+    {
+        "id":17,
+        "nombreProducto": "naranja",
+        "imagen": "naranja.png",
+        "categoriaId": 3
+    },
+    {
+        "id":18,
+        "nombreProducto": "lechuga",
+        "imagen": "lechuga.png",
+        "categoriaId": 3
+    },
+    {
+        "id":19,
+        "nombreProducto": "zanahoria",
+        "imagen": "zanahoria.png",
+        "categoriaId": 3
+    },
+    {
+        "id":20,
+        "nombreProducto": "pimiento",
+        "imagen": "pimiento.png",
+        "categoriaId": 3
+    },
+    {
+        "id":21,
+        "nombreProducto": "aguacate",
+        "imagen": "aguacate.png",
+        "categoriaId": 3
+    },
+    {
+        "id":22,
+        "nombreProducto": "papas",
+        "imagen": "papas.png",
+        "categoriaId": 3
+    },
+    {
+        "id":23,
+        "nombreProducto": "tomate",
+        "imagen": "tomate.png",
+        "categoriaId": 3
+    },
+   
+    {
+        "id":24,
+        "nombreProducto": "pepino",
+        "imagen": "pepino.png",
+        "categoriaId": 3
+    },
+    {
+        "id":25,
+        "nombreProducto": "cebolla",
+        "imagen": "cebolla.png",
+        "categoriaId": 3
+    },
+    {
+        "id":26,
+        "nombreProducto": "ajo",
+        "imagen": "ajo.png",
+        "categoriaId": 3
+    },
+    {
+        "id":27,
+        "nombreProducto": "piña",
+        "imagen": "piña.png",
+        "categoriaId": 3
+    },
+    {
+        "id":28,
+        "nombreProducto": "jamón serrano",
+        "imagen": "jamon_serrano.png",
+        "categoriaId": 4
+    },
+    {
+        "id":29,
+        "nombreProducto": "jamón",
+        "imagen": "jamon.png",
+        "categoriaId": 4
+    },
+    {
+        "id":30,
+        "nombreProducto": "lonchas de pavo",
+        "imagen": "pechuga_pavo.png",
+        "categoriaId": 4
+    },
+    {
+        "id":31,
+        "nombreProducto": "lomo",
+        "imagen": "lomo.png",
+        "categoriaId": 4
+    },
+    {
+        "id":32,
+        "nombreProducto": "pechuga pollo",
+        "imagen": "pechuga_pollo.png",
+        "categoriaId": 4
+    },
+    {
+        "id":33,
+        "nombreProducto": "carne de hamburguesa",
+        "imagen": "carne_hamburguesa.png",
+        "categoriaId": 4
+    },
+    {
+        "id":34,
+        "nombreProducto": "chicharro",
+        "imagen": "chicharro.png",
+        "categoriaId": 4
+    },
+    {
+        "id":35,
+        "nombreProducto": "atun",
+        "imagen": "atun.png",
+        "categoriaId": 4
+    },
+    {
+        "id":36,
+        "nombreProducto": "sardina",
+        "imagen": "sardina.png",
+        "categoriaId": 4
+    },
+    {
+        "id":37,
+        "nombreProducto": "caballa",
+        "imagen": "caballa.png",
+        "categoriaId": 4
+    },
+    {
+        "id":38,
+        "nombreProducto": "queso",
+        "imagen": "queso.png",
+        "categoriaId": 5
+    },
+    {
+        "id":39,
+        "nombreProducto": "yogures",
+        "imagen": "yogures.png",
+        "categoriaId": 5
+    },
+    {
+        "id":40,
+        "nombreProducto": "leche",
+        "imagen": "leche.png",
+        "categoriaId": 5
+    },
+    {
+        "id":41,
+        "nombreProducto": "mantequilla",
+        "imagen": "mantequilla.png",
+        "categoriaId": 5
+    },
+    {
+        "id":42,
+        "nombreProducto": "flanes",
+        "imagen": "flan.png",
+        "categoriaId": 5
+    },
+    {
+        "id":43,
+        "nombreProducto": "actimel",
+        "imagen": "actimel.png",
+        "categoriaId": 5
+    },
+    {
+        "id":44,
+        "nombreProducto": "gelatinas",
+        "imagen": "gelatina.png",
+        "categoriaId": 5
+    },
+    {
+        "id":45,
+        "nombreProducto": "jugos",
+        "imagen": "jugos.png",
+        "categoriaId": 6
+    },
+    {
+        "id":46,
+        "nombreProducto": "heineken",
+        "imagen": "heineken.png",
+        "categoriaId": 6
+    },
+    {
+        "id":47,
+        "nombreProducto": "coca-cola",
+        "imagen": "coca-cola.png",
+        "categoriaId": 6
+    },
+    {
+        "id":48,
+        "nombreProducto": "vino",
+        "imagen": "vino.png",
+        "categoriaId": 6
+    },
+    {
+        "id":49,
+        "nombreProducto": "dorada",
+        "imagen": "dorada.png",
+        "categoriaId": 6
+    },
+    {
+        "id":50,
+        "nombreProducto": "barra de pan",
+        "imagen": "barra_pan.png",
+        "categoriaId": 7
+    },
+    {
+        "id":51,
+        "nombreProducto": "tortilla",
+        "imagen": "tortilla.png",
+        "categoriaId": 7
+    },
+    {
+        "id":52,
+        "nombreProducto": "tarta",
+        "imagen": "tarta.png",
+        "categoriaId": 7
+    },
+    {
+        "id":53,
+        "nombreProducto": "donus",
+        "imagen": "donus.png",
+        "categoriaId": 7
+    },
+    {
+        "id":54,
+        "nombreProducto": "pan de molde",
+        "imagen": "pan_molde.png",
+        "categoriaId": 7
+    },
+    {
+        "id":55,
+        "nombreProducto": "comida de gatos",
+        "imagen": "comida_gatos.png",
+        "categoriaId": 8
+    },
+    {
+        "id":56,
+        "nombreProducto": "arroz",
+        "imagen": "arroz.png",
+        "categoriaId": 9
+    },
+    {
+        "id":57,
+        "nombreProducto": "espaguetis",
+        "imagen": "spaghetti.png",
+        "categoriaId": 9
+    },
+    {
+        "id":58,
+        "nombreProducto": "cereal",
+        "imagen": "cereal.png",
+        "categoriaId": 9
+    },
+    {
+        "id":59,
+        "nombreProducto": "harina de avena",
+        "imagen": "harina_avena.png",
+        "categoriaId": 9
+    },
+    {
+        "id":60,
+        "nombreProducto": "harina de maiz",
+        "imagen": "harina_maiz.png",
+        "categoriaId": 10
+    },
+    {
+        "id":61,
+        "nombreProducto": "aceite",
+        "imagen": "aceite.png",
+        "categoriaId": 10
+    },
+    {
+        "id":62,
+        "nombreProducto": "azucar",
+        "imagen": "azucar.png",
+        "categoriaId": 10
+    },
+    {
+        "id":63,
+        "nombreProducto": "canela",
+        "imagen": "canela.png",
+        "categoriaId": 10
+    },
+    {
+        "id":64,
+        "nombreProducto": "mayonesa",
+        "imagen": "mayonesa.png",
+        "categoriaId": 10
+    },
+    {
+        "id":65,
+        "nombreProducto": "vinagre",
+        "imagen": "vinagre.png",
+        "categoriaId": 10
+    }
+      
+]
